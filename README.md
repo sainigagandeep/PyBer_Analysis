@@ -12,13 +12,13 @@ The PyBer Summary DataFrame provides an overview comparison of PyBer's rideshari
 
 On a similar pattern, there was also a larger volume of drivers in urban cities compared to suburban and rural cities. There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure below depicts the significance of drivers in urban cities during this time period.
 
-![% of Total Drivers by City Type]
+![% of Total Drivers by City Type](https://github.com/Gagan-hub/PyBer_Analysis/blob/main/analysis/Fig7.png)
  
 
 
 Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. PyBer transactions in urban cities totaled nearly $40,000 whereas transactions in urban cities and rural cities totaled at least $19,000 and $4,000, respectively. The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
 
-![% of Total Fares by City Type]
+![% of Total Fares by City Type](https://github.com/Gagan-hub/PyBer_Analysis/blob/main/analysis/Fig5.png)
  
 
 
@@ -28,7 +28,7 @@ In terms of costs, it appears that riders in rural cities pay on average almost 
 
 The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. The yellow trend shows how fares in urban cities totaled from around $1,600 to $2,300 from beginning to end during this five-month period. In contrast, the blue trend shows how fares in rural cities totaled around $300 from beginning to end during the same time period. The orange trend shows how the total fares in suruban cities fall in between urban and rural cities: around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. One noteworthy peak in total fares among urban, suburban, and rural cities occurred sometime at the end of February 2019.
 
-![Total Fare by City Type]
+![Total Fare by City Type](https://github.com/Gagan-hub/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
  
 
 
