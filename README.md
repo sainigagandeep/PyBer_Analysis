@@ -33,7 +33,7 @@ The multiple-line chart "Total Fare by City Type" further supports the PyBer Sum
 
 
 ### Implications:
-* The majority of PyBer's revenue occurs in urban cities maily because -
+* The majority of PyBer's revenue occurs in urban cities maily because 
    1-There is a higher numner of users of PyBer ridesharing in urban cities.
    2-There are more drivers in urban cities than rural cities.
 
